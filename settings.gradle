@@ -1,0 +1,2 @@
+rootProject.name = "Neko Diary"
+include ':app'
